@@ -1,4 +1,4 @@
-TITLE      done converged in epoxyoptfreqC 591vectors
+TITLE      
 REMARK   1 File created by GaussView 6.0.16
 HETATM    1 Si           0       1.829  -1.111   1.588                      Si
 HETATM    2  C           0       3.106  -1.867   2.709                       C
@@ -393,3 +393,4 @@ CONECT  193  180
 CONECT  194  185
 CONECT  195  165
 CONECT  196  170
+

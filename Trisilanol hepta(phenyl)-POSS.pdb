@@ -1,4 +1,4 @@
-TITLE      3yes
+TITLE      
 REMARK   1 File created by GaussView 6.0.16
 HETATM    1 Si           0       0.044  -0.034   2.043                      Si
 HETATM    2  O           0      -1.325   0.639   1.429                       O
@@ -199,3 +199,4 @@ CONECT   96   12
 CONECT   97   17
 CONECT   98   11   99
 CONECT   99   98
+

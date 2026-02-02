@@ -1,4 +1,4 @@
-TITLE      nnocartesian
+TITLE      
 REMARK   1 File created by GaussView 6.0.16
 HETATM    1 Si           0      -1.180  -2.022   1.147                      Si
 HETATM    2 Si           0      -0.530  -1.839  -1.843                      Si
@@ -247,3 +247,4 @@ CONECT  120   85
 CONECT  121   86  122  123
 CONECT  122  121
 CONECT  123  121
+

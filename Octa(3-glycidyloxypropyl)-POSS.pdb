@@ -1,4 +1,4 @@
-TITLE      Opt on glycidylPOSSfrom glycidyl.log 4 yes left freq
+TITLE      
 REMARK   1 File created by GaussView 6.0.16
 HETATM    1 Si           0       0.416  -2.246  -0.223                      Si
 HETATM    2 Si           0      -0.785   0.244   1.259                      Si
@@ -345,3 +345,4 @@ CONECT  169   94
 CONECT  170   80
 CONECT  171  138
 CONECT  172  124
+

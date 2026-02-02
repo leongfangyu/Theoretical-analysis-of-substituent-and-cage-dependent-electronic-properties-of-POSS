@@ -1,4 +1,4 @@
-TITLE      done opt need mem for freq
+TITLE      
 REMARK   1 File created by GaussView 6.0.16
 HETATM    1 Si           0      -1.112  -2.103   1.175                      Si
 HETATM    2 Si           0      -0.851  -1.650  -1.928                      Si
@@ -249,3 +249,4 @@ CONECT  121  116
 CONECT  122  117
 CONECT  123  117
 CONECT  124  117
+

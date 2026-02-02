@@ -1,4 +1,4 @@
-TITLE      Opt on ohc4POSS
+TITLE      
 REMARK   1 File created by GaussView 6.0.16
 HETATM    1 Si           0       2.225   1.125   0.703                      Si
 HETATM    2 Si           0       2.422  -0.615  -1.906                      Si
@@ -227,3 +227,4 @@ CONECT  110  103
 CONECT  111   10
 CONECT  112   19
 CONECT  113   15
+

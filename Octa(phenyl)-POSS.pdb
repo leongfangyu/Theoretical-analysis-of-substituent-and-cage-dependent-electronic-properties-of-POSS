@@ -1,4 +1,4 @@
-TITLE      from 4 yes doneopt to remove -ve
+TITLE     
 REMARK   1 File created by GaussView 6.0.16
 HETATM    1 Si           0       1.519   1.417   1.742                      Si
 HETATM    2  O           0       1.749  -0.153   2.191                       O
@@ -217,3 +217,4 @@ CONECT  105   50
 CONECT  106   46
 CONECT  107   44
 CONECT  108   32
+

@@ -1,4 +1,4 @@
-TITLE      Opt on c1POSS
+TITLE     
 REMARK   1 File created by GaussView 6.0.16
 HETATM    1 Si           0       1.481  -2.263   0.516                      Si
 HETATM    2 Si           0       2.657   0.504  -0.517                      Si
@@ -105,3 +105,4 @@ CONECT   49    9   50   51   52
 CONECT   50   49
 CONECT   51   49
 CONECT   52   49
+

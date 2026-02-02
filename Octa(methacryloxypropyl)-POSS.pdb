@@ -1,4 +1,4 @@
-TITLE      4 yes become 2 yes tianji
+TITLE      
 REMARK   1 File created by GaussView 6.0.16
 HETATM    1 Si           0      -0.891  -2.433   0.466                      Si
 HETATM    2  O           0      -1.636  -1.107  -0.136                       O
@@ -361,3 +361,4 @@ CONECT  177  103  178  179  180
 CONECT  178  177
 CONECT  179  177
 CONECT  180  177
+

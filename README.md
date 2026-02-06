@@ -1,6 +1,6 @@
 <div align="center">   
   
-# Theoretical-analysis-of-substituent-and-cage-dependent-electronic-properties-of-POSS
+# Theoretical Analysis of Substituent- and Cage-dependent Electronic Properties of POSS
 </div>
 
 ## [Paper](https://doi.org/10.1063/5.0150173)

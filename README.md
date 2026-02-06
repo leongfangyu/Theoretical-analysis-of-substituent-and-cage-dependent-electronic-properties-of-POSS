@@ -28,6 +28,38 @@ or reconstructed for use in:
 The availability of these optimized geometries is intended to **facilitate reuse and extension of POSS studies beyond the quantum-mechanical level**, in particular for force-field parametrization, adsorption modeling, and structure–property relationship analysis.
 
 
+
+## Computational workflow
+
+The geometries provided in this repository were generated using **Gaussian 16**.  
+Geometry optimization and vibrational frequency verification were performed using the following procedure:
+
+### Geometry optimization
+The molecular structures were first optimized using:
+
+#p opt b3lyp/6-31+g(d) em=gd3bj geom=connectivity
+
+
+### Frequency calculation
+After successful convergence of the optimized structure, vibrational frequency calculations were performed using:
+
+#p freq b3lyp/6-31+g(d) em=gd3bj geom=connectivity
+
+
+The frequency calculations were used to confirm that the optimized geometries correspond to local minima (no imaginary frequencies).
+
+### Structure conversion and simulation preparation
+The converged structures were subsequently exported into **PDB format** using **GaussView 6**. The PDB structures can be further imported into molecular system construction tools such as:
+
+- **Packmol**
+- **Moltemplate**
+
+The generated molecular systems can then be used in simulation environments, including:
+
+- **BIOVIA Materials Studio**
+- **LAMMPS**
+
+
 ## Relation to published studies
 
 The electronic and structural properties of the provided POSS geometries,
